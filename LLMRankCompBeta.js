@@ -1,4 +1,5 @@
 <script>
+console.log("Script loaded");
   // Sample LLM data (as of February 25, 2025, based on trends)
   const llms = [
     {
